@@ -10,7 +10,9 @@ PyPI
 ```from pycoingecko import CoinGeckoAPI
 aitu = CoinGeckoAPI()```
 
-# Usage examples
+
+
+Usage examples
 
 ```aitu.get_price(ids='bitcoin', vs_currencies='usd')
 {'bitcoin': {'usd': 48011}}
