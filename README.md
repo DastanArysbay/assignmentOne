@@ -29,7 +29,8 @@ python3 setup.py install
 
 # Usage examples
 
-```aitu.get_price(ids='bitcoin', vs_currencies='usd')
+```python
+aitu.get_price(ids='bitcoin', vs_currencies='usd')
 {'bitcoin': {'usd': 48011}}
 
 print(aitu.ping())
