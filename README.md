@@ -14,7 +14,7 @@ aitu = CoinGeckoAPI()`
 
  `aitu.get_price(ids='bitcoin', vs_currencies='usd')`
 
-{'bitcoin': {'usd': 48011}}`
+`{'bitcoin': {'usd': 48011}}`
 
 `print(aitu.ping())`
 
