@@ -6,8 +6,10 @@ PyPI
 
 ```pip install pycoingecko```
 
+# Usage
 
-
+```from pycoingecko import CoinGeckoAPI
+aitu = CoinGeckoAPI()```
 
 Usage examples
 
