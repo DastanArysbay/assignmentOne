@@ -3,8 +3,8 @@ Arysbay Dastan (SE-2004)
 # Installation
 PyPI
 
-`{python} 
-{pip install pycoingecko}`
+
+>pip install pycoingecko
 
 # Usage
 
