@@ -13,9 +13,7 @@ PyPI
 
 or
 
-```git clone https://github.com/man-c/pycoingecko.git
-cd pycoingecko
-python3 setup.py install```
+```git clone https://github.com/man-c/pycoingecko.git cd pycoingecko python3 setup.py install```
 
 
 
