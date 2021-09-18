@@ -9,7 +9,6 @@ PyPI
 
 # Usage
 
-```from pycoingecko import CoinGeckoAPI
-aitu = CoinGeckoAPI()```
+```from pycoingecko import CoinGeckoAPI  aitu = CoinGeckoAPI()```
 
 
