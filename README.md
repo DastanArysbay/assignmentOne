@@ -11,6 +11,12 @@ PyPI
 
 ```from pycoingecko import CoinGeckoAPI  aitu = CoinGeckoAPI()```
 
+or
+
+```git clone https://github.com/man-c/pycoingecko.git
+cd pycoingecko
+python3 setup.py install```
+
 
 
 
